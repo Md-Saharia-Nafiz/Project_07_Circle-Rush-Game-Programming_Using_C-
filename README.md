@@ -41,11 +41,11 @@ To practice basic C++ programming concepts like loops, functions, and arrays. To
 
 ## 🧠 Concepts Practiced:
 
-=> Loops and conditional statements
-=> Functions for modular code
-=> Arrays or vectors for object management
-=> User input handling
-=> Basic game logic and score tracking
+- Loops and conditional statements
+- Functions for modular code
+- Arrays or vectors for object management
+- User input handling
+- Basic game logic and score tracking
 
 
 ## ▶️ How to Run:
@@ -65,13 +65,12 @@ To practice basic C++ programming concepts like loops, functions, and arrays. To
 
 ## 📚 What I Learned from This Project:
 
--> Developed a better understanding of C++ basics, including loops, functions, and arrays.
--> Learned how to handle user input effectively in a console application.
--> Gained experience in designing simple game logic and implementing collision detection.
--> Learned how to structure and organize a small C++ project from start to finish.
--> Understood how to implement a scoring system and game over conditions to make the game interactive and engaging.
--> Improved problem-solving skills by debugging and testing the game thoroughly.
-
+- Developed a better understanding of C++ basics, including loops, functions, and arrays.
+- Learned how to handle user input effectively in a console application.
+- Gained experience in designing simple game logic and implementing collision detection.
+- Learned how to structure and organize a small C++ project from start to finish.
+- Understood how to implement a scoring system and game over conditions to make the game interactive and engaging.
+- Improved problem-solving skills by debugging and testing the game thoroughly.
 
 ## 👨‍💻 Developed By
 
